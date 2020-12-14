@@ -20,7 +20,7 @@ form, embed {display: inline;margin: 0;padding: 0;}
 #kuangjia,#kuangjias{width:1180px;clear:both;margin:0 auto;table-layout:fixed; word-break: break-all;overflow:hidden;}
 .neirong{float:left;width:880px;overflow:hidden;background:#ffffff;border-radius:5px;padding-top:3px;}
 .neirongs{margin:0 auto;overflow:hidden;background:#ffffff;border-radius:5px;}
-#logo{float:left;text-align:left;text-indent: -999em;background-image: url(../include/logo.png);background-repeat: no-repeat;background-size:100% 100%;height:90px;width:235px}
+#logo{float:left;text-align:left;text-indent: -999em;background-image: url(images/logo.png);background-repeat: no-repeat;background-size:100% 100%;height:90px;width:235px}
 #logo h1,#logo h2{width:235px;height:90px;}
 #logo h1 a,#logo h2 a{display: block;height:90px;}
 #dingad{width:75%;float:right;text-align:right;font-size:0px;}
